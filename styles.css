@@ -1,0 +1,25 @@
+body {
+  padding-top: 100px;
+  font-family: sans-serif;
+  background-color: green
+}
+
+h1 {
+  font-family:  sans-serif;
+  color: #337ab7;
+}
+
+.navbar {
+  color: blue;
+  font-size: 40px;
+  padding-left: 15px;
+}
+
+  }
+.col-md-6 {
+  text-align: center;
+}
+
+.game {
+  display: none;
+}
